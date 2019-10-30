@@ -1,0 +1,34 @@
+
+
+Version:	3.10
+CmdLine:	D:\Users\Win10\Desktop\DATA BASE ORPJECT\DATABASE\PILLMAP.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Users\Win10\Desktop\DATA BASE ORPJECT\DATABASE\.
+Java min ver:	1.6.0
+Java max ver:	1.8.0
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_151\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_131
+Ignore:		1.8.0_131
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_151
+Ignore:		1.8.0_151
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_131
+Ignore:		1.8.0_131
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_151
+Ignore:		1.8.0_151
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Check:		SOFTWARE\JavaSoft\JRE\10.0.1
+Ignore:		10.0.1
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\9.0.1
+Ignore:		9.0.1
+Runtime used:	1.8 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_151\bin\javaw.exe
+Launcher args:	-jar "D:\Users\Win10\Desktop\DATA BASE ORPJECT\DATABASE\PILLMAP.exe"
+Args length:	68/32768 chars
+Exit code:	0
